@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroservivesExamples.iml" filepath="$PROJECT_DIR$/.idea/MicroservivesExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-microservice-server/com.doj.discovery.iml" filepath="$PROJECT_DIR$/discovery-microservice-server/com.doj.discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accounts-microservice-server/com.doj.ms.accounts.iml" filepath="$PROJECT_DIR$/accounts-microservice-server/com.doj.ms.accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webclient-microservice-server/com.doj.web.iml" filepath="$PROJECT_DIR$/webclient-microservice-server/com.doj.web.iml" />
+    </modules>
+  </component>
+</project>
